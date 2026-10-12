@@ -1,0 +1,8 @@
+START HERE — MOVEINSYNC FDE CASE STUDY
+
+1) Open MoveInSync_Decision_Brief.pdf first: one-page recommendation, impact bars, Android/iOS gap and the rough store-score bridge.
+2) Open MoveInSync_Play_Store_Ratings_Report.pdf next: full evidence, action plan, charted trends, methodology and next-day ticket appendix.
+3) Read submission_note.md for the short tools/method note requested in Microsoft Forms Field 7.
+4) Source code, identifier-minimized review snapshot, validation worksheet/results, tests and weekly monitor are included.
+
+Reproduce the saved snapshot using the README commands. On 13 Oct 2026, the official India Google Play listing was checked live and showed 4.3 stars, 1.15L rounded reviews, and an update date of 8 Oct 2026; the iOS listing showed 4.7 from 60k ratings. A structured bulk scrape was attempted but could not start because google-play-scraper was unavailable and package-index DNS/network access failed. The saved snapshot was not replaced. The GitHub Actions workflow is configured and local checks pass, but a first remote Actions run and remote commit cannot be claimed until it is run from an authenticated repository. See RUN_STATUS.md for the exact status.

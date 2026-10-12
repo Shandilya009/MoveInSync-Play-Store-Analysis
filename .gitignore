@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+~$*.docx
+# Fresh-run review text remains ephemeral in automation; retain only aggregate history.
+output/reviews.csv
+output/manual_review_queue.csv
+output/unanswered_reviews.csv
+output/history.csv
