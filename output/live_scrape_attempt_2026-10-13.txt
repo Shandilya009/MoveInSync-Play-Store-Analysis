@@ -1,0 +1,27 @@
+LIVE STRUCTURED SCRAPE ATTEMPT — 13 OCTOBER 2026
+
+Command attempted:
+  python moveinsync_ratings_monitor.py --recent-days 400 --output-dir output_live_attempt
+
+Result:
+  Failed before network collection because google_play_scraper is not installed.
+
+Dependency install also attempted:
+  python -m pip install -r requirements.txt
+
+Result:
+  Failed because the package index could not be resolved (DNS/network error). The frozen review dataset was not changed.
+
+Independent public-page check completed through the web page:
+  India Google Play: 4.3 stars; 1.15L rounded reviews; last updated 8 Oct 2026.
+  India iOS App Store: 4.7/5; 60k rounded ratings.
+
+This file records a failed live-scrape attempt, not a successful fresh review pull.
+
+SECOND ATTEMPT (13 OCTOBER 2026):
+
+Command:
+  python -m pip install 'google-play-scraper>=1.2.0'
+
+Result:
+  Failed after retries: pip could not resolve the package index host (temporary DNS/network resolution failure). No package installed; no new review rows were collected; the frozen dataset remains unchanged.

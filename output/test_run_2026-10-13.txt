@@ -1,0 +1,136 @@
+test_actual_unsafe_concern_is_safety (test_classifier.ClassifierRegressionTests.test_actual_unsafe_concern_is_safety) ... ok
+test_address_change_friction_is_ui_signal (test_classifier.ClassifierRegressionTests.test_address_change_friction_is_ui_signal) ... ok
+test_assigning_is_not_sign_in (test_classifier.ClassifierRegressionTests.test_assigning_is_not_sign_in) ... ok
+test_booking_status_problem (test_classifier.ClassifierRegressionTests.test_booking_status_problem) ... ok
+test_broken_app_explicitly_not_working_is_reliability (test_classifier.ClassifierRegressionTests.test_broken_app_explicitly_not_working_is_reliability) ... ok
+test_comparative_reliability_signal_is_detected (test_classifier.ClassifierRegressionTests.test_comparative_reliability_signal_is_detected) ... ok
+test_completely_is_not_transport_delay (test_classifier.ClassifierRegressionTests.test_completely_is_not_transport_delay) ... ok
+test_customer_service_phrase (test_classifier.ClassifierRegressionTests.test_customer_service_phrase) ... ok
+test_forced_rating (test_classifier.ClassifierRegressionTests.test_forced_rating) ... ok
+test_frustrating_is_not_rating_prompt (test_classifier.ClassifierRegressionTests.test_frustrating_is_not_rating_prompt) ... ok
+test_generic_not_installed_is_access_signal (test_classifier.ClassifierRegressionTests.test_generic_not_installed_is_access_signal) ... ok
+test_generic_safety_check_is_not_safety_incident (test_classifier.ClassifierRegressionTests.test_generic_safety_check_is_not_safety_incident) ... ok
+test_grammatical_variation_in_update_timing_is_reliability (test_classifier.ClassifierRegressionTests.test_grammatical_variation_in_update_timing_is_reliability) ... ok
+test_hang_is_launch_failure (test_classifier.ClassifierRegressionTests.test_hang_is_launch_failure) ... ok
+test_helpdesk_unreachable (test_classifier.ClassifierRegressionTests.test_helpdesk_unreachable) ... ok
+test_installer_error_gets_specific_theme (test_classifier.ClassifierRegressionTests.test_installer_error_gets_specific_theme) ... ok
+test_logged_in_phrase (test_classifier.ClassifierRegressionTests.test_logged_in_phrase) ... ok
+test_mic_requires_word_boundary (test_classifier.ClassifierRegressionTests.test_mic_requires_word_boundary) ... ok
+test_missing_address_is_booking_signal (test_classifier.ClassifierRegressionTests.test_missing_address_is_booking_signal) ... ok
+test_missing_information_is_booking_signal (test_classifier.ClassifierRegressionTests.test_missing_information_is_booking_signal) ... ok
+test_missing_trip_details_is_booking_signal (test_classifier.ClassifierRegressionTests.test_missing_trip_details_is_booking_signal) ... ok
+test_multi_label_captures_secondary_issue (test_classifier.ClassifierRegressionTests.test_multi_label_captures_secondary_issue) ... ok
+test_no_skip_feedback (test_classifier.ClassifierRegressionTests.test_no_skip_feedback) ... ok
+test_otp_delivery_problem (test_classifier.ClassifierRegressionTests.test_otp_delivery_problem) ... ok
+test_policy_prompt_detected (test_classifier.ClassifierRegressionTests.test_policy_prompt_detected) ... ok
+test_qr_boarding_feature_comparison_is_ui_signal (test_classifier.ClassifierRegressionTests.test_qr_boarding_feature_comparison_is_ui_signal) ... ok
+test_repeated_logout (test_classifier.ClassifierRegressionTests.test_repeated_logout) ... ok
+test_routing_complaint_is_transport_ops (test_classifier.ClassifierRegressionTests.test_routing_complaint_is_transport_ops) ... ok
+test_slow_tracker_is_eta_theme (test_classifier.ClassifierRegressionTests.test_slow_tracker_is_eta_theme) ... ok
+test_substring_change_is_not_launch_failure (test_classifier.ClassifierRegressionTests.test_substring_change_is_not_launch_failure) ... ok
+test_unable_to_open_is_launch_failure (test_classifier.ClassifierRegressionTests.test_unable_to_open_is_launch_failure) ... ok
+test_unmatched_short_review_is_neutral_other (test_classifier.ClassifierRegressionTests.test_unmatched_short_review_is_neutral_other) ... ok
+test_emits_score_drop_version_and_theme_alerts (test_monitor_alerts.MonitorAlertTests.test_emits_score_drop_version_and_theme_alerts) ... ok
+test_no_prior_history_does_not_claim_a_drop (test_monitor_alerts.MonitorAlertTests.test_no_prior_history_does_not_claim_a_drop) ... ok
+test_suppresses_score_drop_with_small_history_sample (test_monitor_alerts.MonitorAlertTests.test_suppresses_score_drop_with_small_history_sample) ... ok
+test_csv_replay_does_not_write_history (test_snapshot.SnapshotIntegrityTests.test_csv_replay_does_not_write_history) ... ok
+test_headline_rating_windows_reproduce (test_snapshot.SnapshotIntegrityTests.test_headline_rating_windows_reproduce) ... ok
+test_impact_scenarios_are_clearly_counterfactual (test_snapshot.SnapshotIntegrityTests.test_impact_scenarios_are_clearly_counterfactual) ... ok
+test_overlapping_mentions_are_separate_from_primary_shares (test_snapshot.SnapshotIntegrityTests.test_overlapping_mentions_are_separate_from_primary_shares) ... ok
+test_primary_theme_denominator_and_shares (test_snapshot.SnapshotIntegrityTests.test_primary_theme_denominator_and_shares) ... ok
+test_snapshot_row_count_and_date_range (test_snapshot.SnapshotIntegrityTests.test_snapshot_row_count_and_date_range) ... ok
+test_store_score_bridge_uses_affected_star_points_not_all_history_rows (test_snapshot.SnapshotIntegrityTests.test_store_score_bridge_uses_affected_star_points_not_all_history_rows) ... ok
+test_submitted_dataset_minimizes_identifiers (test_snapshot.SnapshotIntegrityTests.test_submitted_dataset_minimizes_identifiers) ... ok
+
+----------------------------------------------------------------------
+Ran 43 tests in 1.354s
+
+OK
+MOVEINSYNC EMPLOYEE APP | PUBLIC PLAY STORE REVIEW PULSE
+Report generated: 2026-10-13
+Dataset window: 14 Mar 2014 to 11 Oct 2026
+Collection mode: Saved CSV replay (not refreshed)
+Written reviews analysed: 24,315
+Public lifetime store rating: not refreshed in saved-CSV replay; check listing before presenting as current.
+
+RATING WINDOWS (anchored to latest review timestamp in the dataset)
+Last 30 days: n=243; mean=3.77; one-star=27.2%; 1-2 star replies=1/73 (1.4%)
+Last 90 days: n=721; mean=3.81; one-star=24.7%; 1-2 star replies=2/205 (1.0%)
+Last 365 days: n=2,848; mean=3.84; one-star=24.0%; 1-2 star replies=29/769 (3.8%)
+
+LOW-RATED REVIEW SET: 843 reviews rated 1-3 stars in the last 365 days.
+PRIMARY THEMES (mutually exclusive; shares sum to 100%):
+  No specific detail / other: 179 (21.2%) | owner: Needs manual review
+  OTP / login / session: 123 (14.6%) | owner: App + authentication backend
+  Booking / schedule / roster: 111 (13.2%) | owner: Product + backend
+  ETA / tracking / location: 86 (10.2%) | owner: Product + routing infrastructure + operations
+  General app reliability / performance: 73 (8.7%) | owner: App engineering
+  Transport operations / driver / route: 71 (8.4%) | owner: Transport operations + vendor management
+  UI / release / usability: 52 (6.2%) | owner: Product + design + app engineering
+  Support / escalation: 43 (5.1%) | owner: Customer support + transport desk
+  App launch / crash: 39 (4.6%) | owner: Android engineering
+  Rating prompts / notifications: 32 (3.8%) | owner: Product + Android
+  Install verification / Play Store error: 15 (1.8%) | owner: Android engineering
+  Policy / permission prompts: 10 (1.2%) | owner: Product + Android
+  Safety / security: 9 (1.1%) | owner: Transport operations + Safety
+
+ALL ISSUE MENTIONS (overlap allowed; percentages do not sum to 100%):
+  Transport operations / driver / route: 176 reviews (20.9%)
+  Booking / schedule / roster: 144 reviews (17.1%)
+  General app reliability / performance: 127 reviews (15.1%)
+  OTP / login / session: 124 reviews (14.7%)
+  ETA / tracking / location: 98 reviews (11.6%)
+  UI / release / usability: 96 reviews (11.4%)
+  Support / escalation: 76 reviews (9.0%)
+  App launch / crash: 51 reviews (6.0%)
+  Rating prompts / notifications: 42 reviews (5.0%)
+  Install verification / Play Store error: 15 reviews (1.8%)
+  Policy / permission prompts: 15 reviews (1.8%)
+  Safety / security: 9 reviews (1.1%)
+
+Unmatched primary bucket: 179 (21.2%); 132 are 3 words or fewer.
+The unmatched bucket is exported to manual_review_queue.csv.
+Counterfactual only: if every 1-3 star review in the 365-day written sample became 4 stars, its arithmetic mean would be 4.64; if all became 5 stars, 4.94. This is not a forecast and does not change the public store score.
+
+PRIMARY-THEME IMPACT SENSITIVITY (exclusive groups; not a forecast):
+  OTP / login / session: n=123; if every review in this group changed to 4 stars, 365-day written mean +0.116 to 3.95; to 5 stars +0.159 to 4.00.
+  Booking / schedule / roster: n=111; if every review in this group changed to 4 stars, 365-day written mean +0.108 to 3.94; to 5 stars +0.147 to 3.98.
+  ETA / tracking / location: n=86; if every review in this group changed to 4 stars, 365-day written mean +0.079 to 3.91; to 5 stars +0.109 to 3.94.
+  General app reliability / performance: n=73; if every review in this group changed to 4 stars, 365-day written mean +0.069 to 3.90; to 5 stars +0.095 to 3.93.
+  Transport operations / driver / route: n=71; if every review in this group changed to 4 stars, 365-day written mean +0.069 to 3.90; to 5 stars +0.094 to 3.93.
+  UI / release / usability: n=52; if every review in this group changed to 4 stars, 365-day written mean +0.046 to 3.88; to 5 stars +0.064 to 3.90.
+  Support / escalation: n=43; if every review in this group changed to 4 stars, 365-day written mean +0.043 to 3.88; to 5 stars +0.058 to 3.89.
+  App launch / crash: n=39; if every review in this group changed to 4 stars, 365-day written mean +0.037 to 3.87; to 5 stars +0.051 to 3.89.
+
+DEVELOPER REPLIES TO 1-2 STAR REVIEWS BY CALENDAR YEAR:
+  2019: 974/1455 (66.9%) - Full year
+  2020: 219/352 (62.2%) - Full year
+  2021: 161/181 (89.0%) - Full year
+  2022: 614/807 (76.1%) - Full year
+  2023: 750/774 (96.9%) - Full year
+  2024: 317/840 (37.7%) - Full year
+  2025: 61/884 (6.9%) - Full year
+  2026: 7/613 (1.1%) - Year to date
+
+RECENT VERSION SIGNAL (sample size >= 10, latest 365 days):
+  12.19.0: n=105, mean=3.62, one-star=31.4%, latest review=2026-10-11
+  12.15.0: n=83, mean=4.04, one-star=19.3%, latest review=2026-10-07
+  12.18.1: n=94, mean=3.90, one-star=24.5%, latest review=2026-10-05
+  12.11.2: n=144, mean=3.98, one-star=22.2%, latest review=2026-09-30
+  12.18.0: n=65, mean=4.11, one-star=20.0%, latest review=2026-09-24
+  12.17.0: n=141, mean=3.76, one-star=27.0%, latest review=2026-09-23
+  12.12.0: n=70, mean=3.96, one-star=22.9%, latest review=2026-09-09
+  12.16.0: n=89, mean=3.87, one-star=20.2%, latest review=2026-09-08
+  12.16.1: n=38, mean=3.53, one-star=34.2%, latest review=2026-09-07
+  12.14.1: n=142, mean=3.82, one-star=24.6%, latest review=2026-08-26
+
+INTERPRETATION NOTES:
+- Written reviews are self-selected and are not a representative survey or incident rate.
+- Primary themes are single-label rule-based estimates; all-issue mentions may overlap.
+- Public text cannot establish root cause or prove that a particular app version caused a rating change.
+- If a recurring monitor raises an alert, treat it as an investigation trigger. Review volumes and rolling windows fluctuate and may overlap.
+- Compare review signals with crash/ANR telemetry, OTP delivery logs, booking outcomes and actual pickup timestamps.
+- Saved-CSV replay does not refresh the store score or append history.
+
+
+Saved analysis outputs to: /tmp/tmpn61drc5y
