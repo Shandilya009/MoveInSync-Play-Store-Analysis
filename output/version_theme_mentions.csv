@@ -1,0 +1,308 @@
+appVersion,low_reviews_on_version,theme,reviews_with_mention,share_of_version_low_reviews
+11.0.2,1,Install verification / Play Store error,1,1.0
+11.3.9,1,OTP / login / session,1,1.0
+11.3.9,1,ETA / tracking / location,1,1.0
+11.3.9,1,Booking / schedule / roster,1,1.0
+11.3.9,1,Policy / permission prompts,1,1.0
+11.5.19,1,General app reliability / performance,1,1.0
+11.5.20,2,Transport operations / driver / route,1,0.5
+11.5.20,2,Support / escalation,1,0.5
+11.5.21,3,Booking / schedule / roster,1,0.3333333333333333
+11.5.21,3,Rating prompts / notifications,1,0.3333333333333333
+11.5.21,3,Transport operations / driver / route,1,0.3333333333333333
+11.5.21,3,OTP / login / session,1,0.3333333333333333
+11.5.4,2,No specific detail / other,1,0.5
+11.5.4,2,UI / release / usability,1,0.5
+11.5.4,2,Transport operations / driver / route,1,0.5
+11.5.5,1,OTP / login / session,1,1.0
+12.10,18,OTP / login / session,4,0.2222222222222222
+12.10,18,Transport operations / driver / route,4,0.2222222222222222
+12.10,18,No specific detail / other,4,0.2222222222222222
+12.10,18,UI / release / usability,2,0.1111111111111111
+12.10,18,Booking / schedule / roster,2,0.1111111111111111
+12.10,18,Rating prompts / notifications,2,0.1111111111111111
+12.10,18,ETA / tracking / location,1,0.05555555555555555
+12.10.2,30,Transport operations / driver / route,9,0.3
+12.10.2,30,General app reliability / performance,6,0.2
+12.10.2,30,ETA / tracking / location,6,0.2
+12.10.2,30,OTP / login / session,6,0.2
+12.10.2,30,Support / escalation,5,0.16666666666666666
+12.10.2,30,No specific detail / other,5,0.16666666666666666
+12.10.2,30,Booking / schedule / roster,3,0.1
+12.10.2,30,UI / release / usability,2,0.06666666666666667
+12.10.2,30,Policy / permission prompts,1,0.03333333333333333
+12.10.2,30,Rating prompts / notifications,1,0.03333333333333333
+12.11.0,14,Booking / schedule / roster,4,0.2857142857142857
+12.11.0,14,No specific detail / other,3,0.21428571428571427
+12.11.0,14,OTP / login / session,2,0.14285714285714285
+12.11.0,14,UI / release / usability,2,0.14285714285714285
+12.11.0,14,Rating prompts / notifications,2,0.14285714285714285
+12.11.0,14,Transport operations / driver / route,2,0.14285714285714285
+12.11.0,14,General app reliability / performance,1,0.07142857142857142
+12.11.0,14,Policy / permission prompts,1,0.07142857142857142
+12.11.1,19,No specific detail / other,10,0.5263157894736842
+12.11.1,19,UI / release / usability,3,0.15789473684210525
+12.11.1,19,OTP / login / session,2,0.10526315789473684
+12.11.1,19,Booking / schedule / roster,2,0.10526315789473684
+12.11.1,19,App launch / crash,1,0.05263157894736842
+12.11.1,19,Transport operations / driver / route,1,0.05263157894736842
+12.11.2,35,Booking / schedule / roster,9,0.2571428571428571
+12.11.2,35,Transport operations / driver / route,9,0.2571428571428571
+12.11.2,35,UI / release / usability,7,0.2
+12.11.2,35,General app reliability / performance,6,0.17142857142857143
+12.11.2,35,No specific detail / other,6,0.17142857142857143
+12.11.2,35,ETA / tracking / location,5,0.14285714285714285
+12.11.2,35,OTP / login / session,5,0.14285714285714285
+12.11.2,35,Support / escalation,4,0.11428571428571428
+12.11.2,35,App launch / crash,1,0.02857142857142857
+12.11.2,35,Rating prompts / notifications,1,0.02857142857142857
+12.12.0,19,General app reliability / performance,5,0.2631578947368421
+12.12.0,19,Booking / schedule / roster,5,0.2631578947368421
+12.12.0,19,ETA / tracking / location,3,0.15789473684210525
+12.12.0,19,Transport operations / driver / route,3,0.15789473684210525
+12.12.0,19,UI / release / usability,3,0.15789473684210525
+12.12.0,19,OTP / login / session,3,0.15789473684210525
+12.12.0,19,No specific detail / other,2,0.10526315789473684
+12.12.0,19,Rating prompts / notifications,1,0.05263157894736842
+12.12.0,19,Support / escalation,1,0.05263157894736842
+12.12.2,16,No specific detail / other,4,0.25
+12.12.2,16,UI / release / usability,3,0.1875
+12.12.2,16,Transport operations / driver / route,3,0.1875
+12.12.2,16,General app reliability / performance,2,0.125
+12.12.2,16,ETA / tracking / location,2,0.125
+12.12.2,16,OTP / login / session,2,0.125
+12.12.2,16,Booking / schedule / roster,1,0.0625
+12.12.2,16,Safety / security,1,0.0625
+12.12.2,16,Support / escalation,1,0.0625
+12.12.2,16,Rating prompts / notifications,1,0.0625
+12.12.3,27,Support / escalation,6,0.2222222222222222
+12.12.3,27,Transport operations / driver / route,6,0.2222222222222222
+12.12.3,27,General app reliability / performance,5,0.18518518518518517
+12.12.3,27,OTP / login / session,5,0.18518518518518517
+12.12.3,27,No specific detail / other,4,0.14814814814814814
+12.12.3,27,Booking / schedule / roster,2,0.07407407407407407
+12.12.3,27,App launch / crash,1,0.037037037037037035
+12.12.3,27,Rating prompts / notifications,1,0.037037037037037035
+12.12.3,27,ETA / tracking / location,1,0.037037037037037035
+12.12.3,27,UI / release / usability,1,0.037037037037037035
+12.12.3,27,Safety / security,1,0.037037037037037035
+12.12.3,27,Policy / permission prompts,1,0.037037037037037035
+12.13.0,12,ETA / tracking / location,3,0.25
+12.13.0,12,No specific detail / other,3,0.25
+12.13.0,12,General app reliability / performance,3,0.25
+12.13.0,12,Transport operations / driver / route,2,0.16666666666666666
+12.13.0,12,OTP / login / session,2,0.16666666666666666
+12.13.0,12,Support / escalation,1,0.08333333333333333
+12.13.1,32,No specific detail / other,11,0.34375
+12.13.1,32,Transport operations / driver / route,9,0.28125
+12.13.1,32,ETA / tracking / location,6,0.1875
+12.13.1,32,OTP / login / session,6,0.1875
+12.13.1,32,General app reliability / performance,4,0.125
+12.13.1,32,Support / escalation,3,0.09375
+12.13.1,32,Booking / schedule / roster,3,0.09375
+12.13.1,32,UI / release / usability,3,0.09375
+12.13.1,32,Rating prompts / notifications,2,0.0625
+12.13.1,32,App launch / crash,1,0.03125
+12.13.1,32,Policy / permission prompts,1,0.03125
+12.13.2,8,Transport operations / driver / route,3,0.375
+12.13.2,8,General app reliability / performance,2,0.25
+12.13.2,8,Booking / schedule / roster,2,0.25
+12.13.2,8,No specific detail / other,2,0.25
+12.13.2,8,Safety / security,1,0.125
+12.13.2,8,Support / escalation,1,0.125
+12.13.2,8,OTP / login / session,1,0.125
+12.13.2,8,ETA / tracking / location,1,0.125
+12.13.2,8,Rating prompts / notifications,1,0.125
+12.13.2,8,UI / release / usability,1,0.125
+12.14.0,16,No specific detail / other,5,0.3125
+12.14.0,16,UI / release / usability,4,0.25
+12.14.0,16,Booking / schedule / roster,4,0.25
+12.14.0,16,General app reliability / performance,2,0.125
+12.14.0,16,Transport operations / driver / route,2,0.125
+12.14.0,16,ETA / tracking / location,1,0.0625
+12.14.0,16,App launch / crash,1,0.0625
+12.14.0,16,Support / escalation,1,0.0625
+12.14.1,43,ETA / tracking / location,9,0.20930232558139536
+12.14.1,43,General app reliability / performance,9,0.20930232558139536
+12.14.1,43,No specific detail / other,9,0.20930232558139536
+12.14.1,43,UI / release / usability,8,0.18604651162790697
+12.14.1,43,Transport operations / driver / route,8,0.18604651162790697
+12.14.1,43,Booking / schedule / roster,8,0.18604651162790697
+12.14.1,43,App launch / crash,3,0.06976744186046512
+12.14.1,43,Rating prompts / notifications,3,0.06976744186046512
+12.14.1,43,OTP / login / session,2,0.046511627906976744
+12.14.1,43,Support / escalation,2,0.046511627906976744
+12.15.0,20,Booking / schedule / roster,5,0.25
+12.15.0,20,Support / escalation,5,0.25
+12.15.0,20,Transport operations / driver / route,4,0.2
+12.15.0,20,No specific detail / other,3,0.15
+12.15.0,20,UI / release / usability,2,0.1
+12.15.0,20,General app reliability / performance,2,0.1
+12.15.0,20,ETA / tracking / location,2,0.1
+12.15.0,20,OTP / login / session,2,0.1
+12.15.0,20,Install verification / Play Store error,1,0.05
+12.16.0,28,App launch / crash,7,0.25
+12.16.0,28,No specific detail / other,5,0.17857142857142858
+12.16.0,28,UI / release / usability,5,0.17857142857142858
+12.16.0,28,Transport operations / driver / route,4,0.14285714285714285
+12.16.0,28,Install verification / Play Store error,4,0.14285714285714285
+12.16.0,28,General app reliability / performance,4,0.14285714285714285
+12.16.0,28,ETA / tracking / location,3,0.10714285714285714
+12.16.0,28,OTP / login / session,2,0.07142857142857142
+12.16.0,28,Booking / schedule / roster,2,0.07142857142857142
+12.16.0,28,Support / escalation,1,0.03571428571428571
+12.16.0,28,Rating prompts / notifications,1,0.03571428571428571
+12.16.1,15,App launch / crash,3,0.2
+12.16.1,15,General app reliability / performance,3,0.2
+12.16.1,15,Booking / schedule / roster,3,0.2
+12.16.1,15,UI / release / usability,3,0.2
+12.16.1,15,Support / escalation,2,0.13333333333333333
+12.16.1,15,Install verification / Play Store error,1,0.06666666666666667
+12.16.1,15,Policy / permission prompts,1,0.06666666666666667
+12.16.1,15,ETA / tracking / location,1,0.06666666666666667
+12.16.1,15,Safety / security,1,0.06666666666666667
+12.16.1,15,No specific detail / other,1,0.06666666666666667
+12.16.1,15,OTP / login / session,1,0.06666666666666667
+12.16.1,15,Transport operations / driver / route,1,0.06666666666666667
+12.17.0,45,Transport operations / driver / route,14,0.3111111111111111
+12.17.0,45,Booking / schedule / roster,9,0.2
+12.17.0,45,ETA / tracking / location,7,0.15555555555555556
+12.17.0,45,General app reliability / performance,6,0.13333333333333333
+12.17.0,45,Support / escalation,6,0.13333333333333333
+12.17.0,45,OTP / login / session,5,0.1111111111111111
+12.17.0,45,App launch / crash,5,0.1111111111111111
+12.17.0,45,No specific detail / other,3,0.06666666666666667
+12.17.0,45,UI / release / usability,2,0.044444444444444446
+12.17.0,45,Install verification / Play Store error,1,0.022222222222222223
+12.17.0,45,Policy / permission prompts,1,0.022222222222222223
+12.17.0,45,Rating prompts / notifications,1,0.022222222222222223
+12.18.0,14,Transport operations / driver / route,5,0.35714285714285715
+12.18.0,14,Booking / schedule / roster,4,0.2857142857142857
+12.18.0,14,ETA / tracking / location,4,0.2857142857142857
+12.18.0,14,No specific detail / other,3,0.21428571428571427
+12.18.0,14,Support / escalation,3,0.21428571428571427
+12.18.0,14,General app reliability / performance,2,0.14285714285714285
+12.18.1,26,No specific detail / other,10,0.38461538461538464
+12.18.1,26,Transport operations / driver / route,4,0.15384615384615385
+12.18.1,26,Rating prompts / notifications,4,0.15384615384615385
+12.18.1,26,OTP / login / session,3,0.11538461538461539
+12.18.1,26,General app reliability / performance,3,0.11538461538461539
+12.18.1,26,App launch / crash,3,0.11538461538461539
+12.18.1,26,ETA / tracking / location,1,0.038461538461538464
+12.18.1,26,Booking / schedule / roster,1,0.038461538461538464
+12.18.1,26,Policy / permission prompts,1,0.038461538461538464
+12.18.1,26,Install verification / Play Store error,1,0.038461538461538464
+12.19.0,36,No specific detail / other,7,0.19444444444444445
+12.19.0,36,General app reliability / performance,7,0.19444444444444445
+12.19.0,36,Booking / schedule / roster,7,0.19444444444444445
+12.19.0,36,UI / release / usability,6,0.16666666666666666
+12.19.0,36,Transport operations / driver / route,6,0.16666666666666666
+12.19.0,36,App launch / crash,5,0.1388888888888889
+12.19.0,36,Support / escalation,4,0.1111111111111111
+12.19.0,36,Rating prompts / notifications,3,0.08333333333333333
+12.19.0,36,OTP / login / session,3,0.08333333333333333
+12.19.0,36,ETA / tracking / location,3,0.08333333333333333
+12.19.0,36,Install verification / Play Store error,1,0.027777777777777776
+12.19.0,36,Policy / permission prompts,1,0.027777777777777776
+12.19.0,36,Safety / security,1,0.027777777777777776
+12.2.1,1,Booking / schedule / roster,1,1.0
+12.2.1,1,Transport operations / driver / route,1,1.0
+12.20.0,1,Transport operations / driver / route,1,1.0
+12.3,1,General app reliability / performance,1,1.0
+12.4,3,Booking / schedule / roster,2,0.6666666666666666
+12.4,3,Transport operations / driver / route,1,0.3333333333333333
+12.4,3,Rating prompts / notifications,1,0.3333333333333333
+12.5,7,Transport operations / driver / route,3,0.42857142857142855
+12.5,7,General app reliability / performance,2,0.2857142857142857
+12.5,7,No specific detail / other,1,0.14285714285714285
+12.5,7,OTP / login / session,1,0.14285714285714285
+12.5,7,ETA / tracking / location,1,0.14285714285714285
+12.5,7,Rating prompts / notifications,1,0.14285714285714285
+12.6,86,OTP / login / session,22,0.2558139534883721
+12.6,86,No specific detail / other,18,0.20930232558139536
+12.6,86,Transport operations / driver / route,16,0.18604651162790697
+12.6,86,Booking / schedule / roster,14,0.16279069767441862
+12.6,86,General app reliability / performance,13,0.1511627906976744
+12.6,86,UI / release / usability,11,0.12790697674418605
+12.6,86,ETA / tracking / location,9,0.10465116279069768
+12.6,86,Rating prompts / notifications,4,0.046511627906976744
+12.6,86,Support / escalation,4,0.046511627906976744
+12.6,86,Safety / security,2,0.023255813953488372
+12.6,86,Policy / permission prompts,2,0.023255813953488372
+12.7,15,General app reliability / performance,5,0.3333333333333333
+12.7,15,Transport operations / driver / route,4,0.26666666666666666
+12.7,15,Support / escalation,4,0.26666666666666666
+12.7,15,ETA / tracking / location,4,0.26666666666666666
+12.7,15,No specific detail / other,3,0.2
+12.7,15,App launch / crash,2,0.13333333333333333
+12.7,15,OTP / login / session,2,0.13333333333333333
+12.7,15,Policy / permission prompts,1,0.06666666666666667
+12.7,15,Rating prompts / notifications,1,0.06666666666666667
+12.7.2,32,No specific detail / other,9,0.28125
+12.7.2,32,Booking / schedule / roster,9,0.28125
+12.7.2,32,Transport operations / driver / route,8,0.25
+12.7.2,32,General app reliability / performance,4,0.125
+12.7.2,32,OTP / login / session,4,0.125
+12.7.2,32,Support / escalation,4,0.125
+12.7.2,32,Rating prompts / notifications,3,0.09375
+12.7.2,32,UI / release / usability,2,0.0625
+12.7.2,32,ETA / tracking / location,2,0.0625
+12.7.2,32,App launch / crash,1,0.03125
+12.8,5,ETA / tracking / location,2,0.4
+12.8,5,General app reliability / performance,2,0.4
+12.8,5,No specific detail / other,1,0.2
+12.8,5,Support / escalation,1,0.2
+12.8,5,UI / release / usability,1,0.2
+12.8.2,16,No specific detail / other,5,0.3125
+12.8.2,16,Transport operations / driver / route,4,0.25
+12.8.2,16,App launch / crash,2,0.125
+12.8.2,16,OTP / login / session,2,0.125
+12.8.2,16,Support / escalation,2,0.125
+12.8.2,16,Booking / schedule / roster,2,0.125
+12.8.2,16,ETA / tracking / location,1,0.0625
+12.8.2,16,Install verification / Play Store error,1,0.0625
+12.8.2,16,General app reliability / performance,1,0.0625
+12.8.2,16,Safety / security,1,0.0625
+12.8.2,16,UI / release / usability,1,0.0625
+12.8.3,36,Booking / schedule / roster,8,0.2222222222222222
+12.8.3,36,OTP / login / session,7,0.19444444444444445
+12.8.3,36,No specific detail / other,6,0.16666666666666666
+12.8.3,36,Transport operations / driver / route,5,0.1388888888888889
+12.8.3,36,UI / release / usability,5,0.1388888888888889
+12.8.3,36,General app reliability / performance,4,0.1111111111111111
+12.8.3,36,App launch / crash,3,0.08333333333333333
+12.8.3,36,ETA / tracking / location,3,0.08333333333333333
+12.8.3,36,Support / escalation,2,0.05555555555555555
+12.8.3,36,Rating prompts / notifications,2,0.05555555555555555
+12.8.3,36,Policy / permission prompts,1,0.027777777777777776
+12.9.0,4,Booking / schedule / roster,2,0.5
+12.9.0,4,General app reliability / performance,1,0.25
+12.9.0,4,No specific detail / other,1,0.25
+12.9.1,8,Booking / schedule / roster,4,0.5
+12.9.1,8,No specific detail / other,4,0.5
+12.9.1,8,OTP / login / session,1,0.125
+12.9.1,8,ETA / tracking / location,1,0.125
+12.9.1,8,App launch / crash,1,0.125
+12.9.2,13,Transport operations / driver / route,5,0.38461538461538464
+12.9.2,13,Rating prompts / notifications,2,0.15384615384615385
+12.9.2,13,Booking / schedule / roster,2,0.15384615384615385
+12.9.2,13,OTP / login / session,2,0.15384615384615385
+12.9.2,13,Support / escalation,2,0.15384615384615385
+12.9.2,13,ETA / tracking / location,2,0.15384615384615385
+12.9.2,13,General app reliability / performance,1,0.07692307692307693
+12.9.2,13,No specific detail / other,1,0.07692307692307693
+12.9.2,13,App launch / crash,1,0.07692307692307693
+12.9.3,3,Policy / permission prompts,1,0.3333333333333333
+12.9.3,3,Booking / schedule / roster,1,0.3333333333333333
+12.9.3,3,No specific detail / other,1,0.3333333333333333
+12.9.4,25,Transport operations / driver / route,6,0.24
+12.9.4,25,No specific detail / other,5,0.2
+12.9.4,25,UI / release / usability,4,0.16
+12.9.4,25,Booking / schedule / roster,4,0.16
+12.9.4,25,General app reliability / performance,4,0.16
+12.9.4,25,Support / escalation,3,0.12
+12.9.4,25,OTP / login / session,3,0.12
+12.9.4,25,App launch / crash,1,0.04
+12.9.4,25,Rating prompts / notifications,1,0.04
+12.9.4,25,ETA / tracking / location,1,0.04
+5.0.6,1,Transport operations / driver / route,1,1.0

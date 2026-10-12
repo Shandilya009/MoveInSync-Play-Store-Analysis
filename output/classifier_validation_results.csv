@@ -1,0 +1,101 @@
+sample_row_id,review_date,score,app_version,manual_primary_theme,regex_primary_theme,exact_match,adjudication_note
+0,2025-10-12,1,12.5,General app reliability / performance,General app reliability / performance,True,Generic app failure
+6,2025-10-16,1,11.5.5,OTP / login / session,OTP / login / session,True,Repeated unexpected logouts
+8,2025-10-16,1,12.6,OTP / login / session,OTP / login / session,True,OTP not delivered
+12,2025-10-17,2,12.6,Transport operations / driver / route,Transport operations / driver / route,True,Driver contact call drops
+13,2025-10-17,1,12.6,General app reliability / performance,General app reliability / performance,True,QR scan delay and trip-detail failure
+25,2025-10-23,1,12.6,OTP / login / session,OTP / login / session,True,Unexpected logout after update
+28,2025-10-23,1,12.6,Transport operations / driver / route,Transport operations / driver / route,True,Vehicle capacity / allocation
+35,2025-10-27,1,,OTP / login / session,OTP / login / session,True,Registration and OTP failure
+39,2025-10-27,2,12.5,ETA / tracking / location,ETA / tracking / location,True,Live tracking behavior; chat is secondary
+40,2025-10-27,2,12.6,OTP / login / session,OTP / login / session,True,Repeated logout and timeout
+64,2025-11-02,1,12.6,Transport operations / driver / route,Booking / schedule / roster,False,Poor cab scheduling by route
+65,2025-11-04,1,12.6,UI / release / usability,Booking / schedule / roster,False,Employee information visibility and experience
+72,2025-11-05,1,12.6,Transport operations / driver / route,ETA / tracking / location,False,Wrong pickup location and false no-show; support is secondary
+82,2025-11-11,3,12.6,General app reliability / performance,General app reliability / performance,True,Intermittent errors and lag
+96,2025-11-19,1,12.6,ETA / tracking / location,ETA / tracking / location,True,Real-time tracking failure
+110,2025-11-26,1,12.7,OTP / login / session,OTP / login / session,True,OTP failure
+113,2025-11-28,1,12.7,ETA / tracking / location,ETA / tracking / location,True,Incorrect ETA and location; support is secondary
+118,2025-12-01,1,12.7.2,Rating prompts / notifications,Rating prompts / notifications,True,Mandatory review prompt
+131,2025-12-07,1,12.7.2,General app reliability / performance,General app reliability / performance,True,App unavailable at a stated time
+135,2025-12-08,2,,App launch / crash,App launch / crash,True,Hangs while loading/opening camera
+166,2025-12-23,1,12.8.2,Install verification / Play Store error,Install verification / Play Store error,True,False Play Store install error blocks cancellation
+167,2025-12-23,1,12.7.2,No specific detail / other,No specific detail / other,True,Generic dissatisfaction
+175,2026-01-02,1,12.4,Booking / schedule / roster,Booking / schedule / roster,True,Persistent no-show state
+178,2026-01-04,1,12.8.3,UI / release / usability,UI / release / usability,True,Accessibility and call-option request
+194,2026-01-08,1,12.8.3,No specific detail / other,No specific detail / other,True,No actionable detail
+196,2026-01-08,2,12.8.3,Booking / schedule / roster,Booking / schedule / roster,True,Booking status does not update
+203,2026-01-10,2,12.7.2,General app reliability / performance,OTP / login / session,False,Frequent crashes
+206,2026-01-12,2,12.8.3,OTP / login / session,OTP / login / session,True,Repeated login requirement
+213,2026-01-15,3,12.8.3,OTP / login / session,OTP / login / session,True,Repeated login requirement
+216,2026-01-15,1,12.8.3,Transport operations / driver / route,Transport operations / driver / route,True,Poor cab allocation and transport service
+218,2026-01-16,1,12.8.3,ETA / tracking / location,ETA / tracking / location,True,Incorrect ETA
+223,2026-01-20,1,12.9.0,Booking / schedule / roster,Booking / schedule / roster,True,Booking task failure
+224,2026-01-22,1,12.8.3,Safety / security,Rating prompts / notifications,False,Driver speeding and ignored safety feedback
+228,2026-01-23,1,12.9.1,Booking / schedule / roster,Booking / schedule / roster,True,Advance booking limitation
+231,2026-01-24,1,12.6,No specific detail / other,No specific detail / other,True,Generic dissatisfaction
+233,2026-01-27,2,,OTP / login / session,OTP / login / session,True,Login timeout
+234,2026-01-27,1,12.9.2,Rating prompts / notifications,Rating prompts / notifications,True,Rating prompt prevents user choosing when to rate
+235,2026-01-27,1,12.9.1,No specific detail / other,No specific detail / other,True,No actionable detail
+240,2026-01-29,1,12.9.2,No specific detail / other,No specific detail / other,True,No actionable detail
+266,2026-02-11,1,12.9.4,General app reliability / performance,General app reliability / performance,True,General stability/features complaint
+281,2026-02-17,1,12.9.4,Transport operations / driver / route,UI / release / usability,False,Poor route/drop sequence and long detours
+349,2026-03-28,1,12.11.0,Rating prompts / notifications,Rating prompts / notifications,True,Excessive promotional notifications
+355,2026-03-31,1,12.11.0,Transport operations / driver / route,Booking / schedule / roster,False,Poor cab clubbing
+360,2026-04-02,1,12.11.0,OTP / login / session,OTP / login / session,True,Sign-in error
+367,2026-04-05,1,12.11.1,UI / release / usability,UI / release / usability,True,Unreadable/truncated Android error message
+372,2026-04-08,1,12.11.1,App launch / crash,App launch / crash,True,Authentication app launch failure
+375,2026-04-09,1,,Booking / schedule / roster,Booking / schedule / roster,True,Pickup scheduling changed and terms friction is secondary
+384,2026-04-15,1,12.11.2,General app reliability / performance,OTP / login / session,False,Failure after login and reinstall loop
+401,2026-04-21,1,12.11.2,OTP / login / session,OTP / login / session,True,Login instability
+405,2026-04-22,1,12.11.2,Transport operations / driver / route,Booking / schedule / roster,False,Poor clubbing/transport team issue
+452,2026-05-16,1,12.12.2,No specific detail / other,No specific detail / other,True,No actionable detail
+453,2026-05-17,3,12.12.2,ETA / tracking / location,ETA / tracking / location,True,Inaccurate GPS movement
+455,2026-05-18,1,12.12.3,Booking / schedule / roster,Booking / schedule / roster,True,Missing and duplicate schedules; cannot cancel/edit
+457,2026-05-18,1,12.12.2,ETA / tracking / location,ETA / tracking / location,True,Weak mapping/navigation
+460,2026-05-19,3,12.12.3,General app reliability / performance,General app reliability / performance,True,Errors and inaccurate rendered details
+461,2026-05-19,1,12.12.2,General app reliability / performance,General app reliability / performance,True,App functions not working
+465,2026-05-20,1,12.12.3,OTP / login / session,OTP / login / session,True,OTP failure
+494,2026-06-03,1,12.13.0,OTP / login / session,OTP / login / session,True,OTP failure
+502,2026-06-05,1,12.13.1,Transport operations / driver / route,Booking / schedule / roster,False,Vendor fails to provide booked cab
+514,2026-06-10,1,12.13.1,OTP / login / session,OTP / login / session,True,Repeated logout
+515,2026-06-11,1,12.13.1,ETA / tracking / location,ETA / tracking / location,True,Incorrect GPS location and ETA
+519,2026-06-13,1,12.13.2,Safety / security,Safety / security,True,Threatening/rude driver and unsafe experience
+520,2026-06-13,3,12.13.1,No specific detail / other,No specific detail / other,True,No actionable detail
+522,2026-06-13,1,12.13.1,No specific detail / other,No specific detail / other,True,Generic dissatisfaction
+529,2026-06-16,1,12.11.2,Booking / schedule / roster,Booking / schedule / roster,True,Destination cannot be changed for ad hoc cab
+533,2026-06-17,1,12.13.1,No specific detail / other,No specific detail / other,True,Generic dissatisfaction
+550,2026-06-22,1,12.13.1,Support / escalation,Support / escalation,True,Helpdesk always busy
+551,2026-06-22,1,12.13.1,UI / release / usability,Policy / permission prompts,False,Poor UX/UI and repeated disclaimer
+554,2026-06-22,1,12.14.0,ETA / tracking / location,ETA / tracking / location,True,Tracking unavailable after trip starts
+571,2026-06-27,1,12.14.0,Booking / schedule / roster,Booking / schedule / roster,True,Cannot edit roster date
+573,2026-06-28,1,12.14.1,UI / release / usability,UI / release / usability,True,Update complaint with no detail
+594,2026-07-01,1,12.14.1,No specific detail / other,No specific detail / other,True,Generic dissatisfaction
+608,2026-07-08,1,12.14.1,ETA / tracking / location,ETA / tracking / location,True,Cabmate pickup locations not visible
+609,2026-07-08,1,12.14.1,Safety / security,Support / escalation,False,Late driver and unsafe pickup location
+623,2026-07-14,1,12.15.0,No specific detail / other,No specific detail / other,True,Generic dissatisfaction
+658,2026-07-31,1,12.16.1,Install verification / Play Store error,App launch / crash,False,False Play Store install error
+675,2026-08-06,1,12.16.1,No specific detail / other,No specific detail / other,True,Generic dissatisfaction
+681,2026-08-07,1,12.16.1,App launch / crash,OTP / login / session,False,App does not open; OTP also fails but access block is primary
+685,2026-08-07,3,12.16.0,App launch / crash,App launch / crash,True,App opening failure
+686,2026-08-08,1,12.14.1,No specific detail / other,General app reliability / performance,False,Competitor comparison without actionable detail
+692,2026-08-10,1,12.16.0,ETA / tracking / location,ETA / tracking / location,True,Stale/inaccurate vehicle location
+699,2026-08-12,1,12.17.0,App launch / crash,App launch / crash,True,App fails to open
+708,2026-08-14,1,12.17.0,General app reliability / performance,General app reliability / performance,True,General failure to update reliably
+729,2026-08-23,1,12.17.0,Booking / schedule / roster,Booking / schedule / roster,True,Cannot book cab
+730,2026-08-24,1,,Transport operations / driver / route,No specific detail / other,False,Service-provider complaint with no more detail
+740,2026-08-29,1,,Support / escalation,Booking / schedule / roster,False,Helpdesk unreachable; adhoc booking is secondary
+749,2026-09-02,1,12.17.0,OTP / login / session,General app reliability / performance,False,Phone/email verification fails
+763,2026-09-09,1,12.18.1,OTP / login / session,OTP / login / session,True,OTP login channels fail
+764,2026-09-09,2,,Safety / security,Safety / security,True,Notifications block timely SOS access
+778,2026-09-16,1,12.18.1,App launch / crash,App launch / crash,True,Repeated reinstall and blank launch
+781,2026-09-17,1,12.18.1,No specific detail / other,No specific detail / other,True,Generic dissatisfaction
+782,2026-09-17,1,12.18.1,No specific detail / other,No specific detail / other,True,Generic dissatisfaction
+784,2026-09-17,1,12.18.1,No specific detail / other,No specific detail / other,True,Generic dissatisfaction
+786,2026-09-18,1,12.18.1,General app reliability / performance,General app reliability / performance,True,Frequent bugs
+788,2026-09-19,1,12.18.1,Rating prompts / notifications,Rating prompts / notifications,True,No skip option for rating
+789,2026-09-20,2,12.18.1,Policy / permission prompts,Policy / permission prompts,True,Repeated permissions
+791,2026-09-21,2,11.0.2,Install verification / Play Store error,Install verification / Play Store error,True,False Play Store install error
+802,2026-09-23,1,12.19.0,Transport operations / driver / route,Transport operations / driver / route,True,Cabs not assigned on time
+811,2026-09-28,1,12.19.0,General app reliability / performance,General app reliability / performance,True,App error/general malfunction
+830,2026-10-07,1,12.19.0,ETA / tracking / location,ETA / tracking / location,True,Van tracking unavailable until close to pickup

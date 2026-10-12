@@ -1,0 +1,7 @@
+journey_stage,reviews_with_stage_mention,star_deficit_points_to_4,mean_score,note
+Self-booking & roster,120,324,1.3,Multi-label stage mentions; a review can count in more than one stage. Do not sum counts.
+Onboarding & access,121,323,1.3305785123966942,Multi-label stage mentions; a review can count in more than one stage. Do not sum counts.
+Pickup & allocation,92,243,1.358695652173913,Multi-label stage mentions; a review can count in more than one stage. Do not sum counts.
+Issue escalation,51,149,1.0784313725490196,Multi-label stage mentions; a review can count in more than one stage. Do not sum counts.
+Live tracking & ETA,53,141,1.3396226415094339,Multi-label stage mentions; a review can count in more than one stage. Do not sum counts.
+Boarding & drop-off / safety,25,68,1.28,Multi-label stage mentions; a review can count in more than one stage. Do not sum counts.

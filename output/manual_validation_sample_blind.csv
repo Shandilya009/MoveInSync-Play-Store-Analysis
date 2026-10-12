@@ -1,0 +1,101 @@
+sample_row_id,content,score,at,appVersion
+0,not working properly,1,2025-10-12 16:45:47,12.5
+6,"App keep logging me out often, so had to keep logging back again & again.",1,2025-10-16 07:39:58,11.5.5
+8,I tried to login through mobile and email as well. the OTP is not delivered to either. what to do?,1,2025-10-16 18:39:36,12.6
+12,when we try to call the driver call get disconnected after one ring. it happens oftenly,2,2025-10-17 10:39:29,12.6
+13,"This app does not scan QR code quickly. Need to wait for long time. Sometimes even after successful scanning, it does not show trip details!!",1,2025-10-17 18:22:01,12.6
+25,The app log out automatically so this all happened after updating to the lastest version I don't know why It seems to be degrading,1,2025-10-23 04:57:07,12.6
+28,worst as it fills 5 person in 4 seater,1,2025-10-23 15:56:16,12.6
+35,worst app. need to register account multiple times. otp for registration will never be sent.,1,2025-10-27 04:26:09,
+39,"It should include a chat option as well, for just simple communication we have to call the driver every time. Also, while I am Zooming in to track the vehicle, why does it auto minimise every time?",2,2025-10-27 19:09:44,12.5
+40,"keep logout need otp login every time, not stable connectivity. timesout",2,2025-10-27 22:19:48,12.6
+64,worst app. the people working schedule cabs very badly. ir respective of route,1,2025-11-02 23:25:43,12.6
+65,"this application is pathetic. Not able to provide information and that is why companies are using it, to keep the employee uninformed.",1,2025-11-04 02:51:01,12.6
+72,"Your service is very poor. Even after confirmation, my new location wasn’t pinned. The driver marked me “no show” while I was at the correct spot. Support staff were rude, laughed, told me to inform my manager, and hung up. Service is too slow — still my location not updated.",1,2025-11-05 06:39:10,12.6
+82,Sometimes gives an error and some time lag but overall it can be used.,3,2025-11-11 16:21:08,12.6
+96,"not showing realtime data & track, worst experience",1,2025-11-19 17:49:11,12.6
+110,no otp is coming for both mobile n email option,1,2025-11-26 14:32:19,12.7
+113,"Very inaccurate app, estimated time of pickup is always wrong. it will waste your time. Does not update vehicle locations a lot of times. I've been using this app for 4-5 months now even after multiple complaints to the team to get it fixed there is no response or fix in the app. The edit pickup location doesn't work so once you fill in your details it's fixed. you'll have to email your handler every time. As I have no other option of commuting apart from the off shuttle i have to keep this app.",1,2025-11-28 07:09:01,12.7
+118,Everytime we open the app it askes a mandatory review,1,2025-12-01 14:17:37,12.7.2
+131,Again app not working at 8pm. worst experience,1,2025-12-07 20:17:00,12.7.2
+135,hangs every time while loading or while opening the camera to scan,2,2025-12-08 09:00:58,
+166,unable cancell the cab as it's sis not open and showing applicable did not download from play store while I downloaded this app from play store bonly,1,2025-12-23 06:54:32,12.8.2
+167,worst app I have ever used,1,2025-12-23 14:34:06,12.7.2
+175,"It seems like ""no show"" is a sin an employee is committing while using this app. I did a no show, the year has passed, but I still see that notification on my app's home page. Shame on you app makers. Have some shame.",1,2026-01-02 07:36:28,12.4
+178,"The worst app ever , App should be like EFMFM app simple and Accessible , there should be an calling option too.",1,2026-01-04 04:14:08,12.8.3
+194,very bad,1,2026-01-08 04:15:56,12.8.3
+196,not user friendly...so much lag in reflecting the booking status,2,2026-01-08 07:55:57,12.8.3
+203,"The Move In Sync app crashes frequently, making it unreliable for daily use. App stability needs serious improvement. It would be very useful to have a feature to add colleagues to Favorites, allowing users to check their login and logout timings and match schedules on a daily, weekly, and monthly basis with transport details on click. This would greatly improve coordination and planning. The app has good potential, but performance issues and missing features reduce the overall experience.",2,2026-01-10 12:39:30,12.7.2
+206,every time whenever I need to Book anything it's asking for login,2,2026-01-12 09:44:19,12.8.3
+213,need to login everytime,3,2026-01-15 10:52:25,12.8.3
+216,"worst app, no proper cab allocations no proper transport service.",1,2026-01-15 20:23:48,12.8.3
+218,most of the time app tracker shows incorrect ETA,1,2026-01-16 10:34:57,12.8.3
+223,Worst cab app booking of the century,1,2026-01-20 12:44:33,12.9.0
+224,very bad experience every driver exceed speed limit why u have give notification to please slow down driver is not listening to that they ignore you have to take action about is driver exceed speed limit,1,2026-01-22 01:15:43,12.8.3
+228,"There doesn’t seem to be an option to schedule a cab for Friday in advance, and because of that I keep forgetting to book it later.",1,2026-01-23 12:10:15,12.9.1
+231,worst....so time wasting.....,1,2026-01-24 04:22:28,12.6
+233,"If we try to login , 4 out of 5 times timeout error will come, it will not login. Frustrating experience.",2,2026-01-27 00:40:39,
+234,no option for the user to provide a trip rating until it pops up,1,2026-01-27 11:55:27,12.9.2
+235,worst,1,2026-01-27 12:54:42,12.9.1
+240,very bad experience,1,2026-01-29 18:47:51,12.9.2
+266,Needs stability and meaningful features,1,2026-02-11 17:40:59,12.9.4
+281,"The drop management in this app is an absolute mess. It feels like routes are assigned randomly without any logical planning. People are dropped in completely inefficient sequences, with unnecessary detours that add 20–30 minutes to what should be a simple commute. There are multiple drop options, yet none of them feel intuitive. Instead of simplifying the experience, the system creates confusion. The routing logic seems poorly optimized — distance, traffic flow, and practicality don’t appear to",1,2026-02-17 18:32:37,12.9.4
+349,Worst app. Continuously getting carbon saving notifications which is annoying,1,2026-03-28 05:21:45,12.11.0
+355,Clubbing is worst,1,2026-03-31 20:38:21,12.11.0
+360,the app is giving sign in error and unable to sign in with work email.,1,2026-04-02 13:03:57,12.11.0
+367,cant read the error message on Android. getting truncated to ellipses .......,1,2026-04-05 13:39:51,12.11.1
+372,authentication app is not opening for corporate,1,2026-04-08 11:46:05,12.11.1
+375,"Why has the timing changed? When four people were assigned, the cab came at 5:00 AM. Now that there are only two of us, the cab is scheduled for 4:30 AM, which feels completely unfair. and additionally we don't have an opportunity to reject the terms and conditions if you don't like that t&c. only one option ""I AGREE""",1,2026-04-09 02:39:07,
+384,"Worst user interface. App doesn't even load once you login using your official id. It just says ""Something went wrong"". Tried uninstalling and installing a couple of times but getting the same error message.",1,2026-04-15 23:15:41,12.11.2
+401,I'm unable to login it's fluctuating while I'm opening the app. Just look into this issue,1,2026-04-21 23:31:46,12.11.2
+405,"very poor experience, not even single time I get the good response from so called saheta team, very poor clubbing of employees really frustrated",1,2026-04-22 10:06:49,12.11.2
+452,worst,1,2026-05-16 14:14:01,12.12.2
+453,the Real time GPS moving is inaccurate at times. otherwise it's a gud app,3,2026-05-17 13:22:11,12.12.2
+455,"The schedules that I booked did not show up on my booked schedules but when I try to book again it's already showing duplicate schedule, please cancel and try again but no option to cancel or edit.",1,2026-05-18 05:29:38,12.12.3
+457,not satisfy with this app it's mapping and navigation feature are too weak,1,2026-05-18 16:27:03,12.12.2
+460,Some errors is there details rendering is not accurate,3,2026-05-19 09:04:05,12.12.3
+461,most of the time this app functions don't even work properly especially when it's needed. always has some bugs or the other,1,2026-05-19 12:07:11,12.12.2
+465,Make your services better! It won't send otp in most cases!,1,2026-05-20 12:57:57,12.12.3
+494,Didn't get any otp to login,1,2026-06-03 15:22:56,12.13.0
+502,ScamInSync with crooks as its vendors with zero customer support. ScamInSync ( formerly known MoveInSync) has Vendors who don't provide cabs for bookings on this app and ask you to look for your own arrangement using uber without any reimbursements zero accountability and zero trust and repeated no service till you understand they want you stop using their services Welcome to ScamInSync ( formerly known as MoveInSync),1,2026-06-05 17:02:36,12.13.1
+514,keeps logging out. worst experience.,1,2026-06-10 09:30:59,12.13.1
+515,"The GPS tracking system is often unreliable and sometimes shows the driver at an incorrect location, which can lead to unnecessary delays. In addition, the estimated arrival time displayed by the GPS tracker is frequently inaccurate, and the pickup time is rarely synchronized correctly. This has occasionally resulted in missed cab pickups. Notifications are also often delayed or, at times, not received at all, causing me to miss important updates regarding my ride.",1,2026-06-11 09:21:18,12.13.1
+519,drivers and management are extremely rude and they talk in an inappropriate and disrespectful manner. Drivers shout during the conversation. Such behavior is unacceptable and that makes feel very uncomfortable and unsafe,1,2026-06-13 00:22:00,12.13.2
+520,need to improve,3,2026-06-13 08:02:50,12.13.1
+522,terrible application !,1,2026-06-13 17:06:13,12.13.1
+529,we can't change a destination for Adhoc Cabs,1,2026-06-16 19:24:36,12.11.2
+533,worst app ever,1,2026-06-17 10:36:42,12.13.1
+550,What's the use of help desk when it's always busy,1,2026-06-22 06:03:21,12.13.1
+551,the UX and UI of the app is poor...and why a fresh disclaimer statement every time when you minimize the app even for a second?,1,2026-06-22 07:25:13,12.13.1
+554,"Eventhough my cab well within 4 hours of booking timing and my trip started, it shows error and cant track cab location. needs fix asap",1,2026-06-22 12:43:07,12.14.0
+571,I have booked the shift cabs before the cut off timings. Now my roster has been changed and i'm not able to edit the date.,1,2026-06-27 21:39:15,12.14.0
+573,for new update,1,2026-06-28 07:50:29,12.14.1
+594,very poor app,1,2026-07-01 23:04:00,12.14.1
+608,"As an employee, I am unable to see the pickup locations of my fellow cab mates. Since employees are picked up from different locations, it would be helpful if the app displayed each cab mate's pickup location (for example, Pratap Vihar, Ghaziabad; Vijay Nagar, Ghaziabad; or Sector 62, Noida). This would help us understand the pickup sequence and estimated arrival time more accurately.",1,2026-07-08 02:33:14,12.14.1
+609,very bad second night .where the driver was late..and to top it off .wher drove from old Mutual to meet the driver at shell garage in epping. where its very dangerous . clearly they must sort out themselves .going to escalate it further,1,2026-07-08 02:56:14,12.14.1
+623,worst app ever seen,1,2026-07-14 07:57:38,12.15.0
+658,not opening always shows the install of the app from the play store,1,2026-07-31 04:49:07,12.16.1
+675,the worst app ever,1,2026-08-06 05:43:53,12.16.1
+681,"not able to open the app, automatic close in a sec. otp in mobile mail is not received. how will people use such a bad experience app. this will set very bad word of mouth experience",1,2026-08-07 09:34:33,12.16.1
+685,app is not opening properly,3,2026-08-07 22:49:18,12.16.0
+686,efmem is more reliable,1,2026-08-08 02:35:45,12.14.1
+692,"I don't know which idiot has designed this app, whenever you see the location, it shows one or two hours ago, it does not show the accurate one.I don't know what I have done with this type of API, it never shows accurate location.",1,2026-08-10 16:09:20,12.16.0
+699,"Doesn't Open, always gets stuck. tried all options reinstall, upgrade, different networks.",1,2026-08-12 11:54:56,12.17.0
+708,"very bad , this app is not updated every thing on time",1,2026-08-14 20:54:00,12.17.0
+729,not able to book cab.,1,2026-08-23 18:10:37,12.17.0
+730,worst service provider,1,2026-08-24 16:52:22,
+740,Always help desk number is not reachable and for updating the mobile number is also not available 😕 😔 and for adhoc cab booking also not available via movei n syn app,1,2026-08-29 19:47:57,
+749,app is not working at all. it's not verifying my no neither my email.,1,2026-09-02 20:37:13,12.17.0
+763,Unable to login in the App. Both Mobile Otp and Email OTP options are not working,1,2026-09-09 09:31:26,12.18.1
+764,"Too much pop up notification, which won't close easily. even you close the app and restart again it will show pop up notification nothing to display but no close option. frustrating experience. If someone needs to use SOS button, he/she can not use in timely manner due to useless notification pop ups",2,2026-09-09 16:14:08,
+778,"useless app, need to uninstall very frequently and install ...i guess developer forgot make it compatible to android 17. just open the app and leave it it doesn't display anything. User don't have any control on app.. the for what sake the app is?? just do rostering ???",1,2026-09-16 08:48:39,12.18.1
+781,not good app,1,2026-09-17 04:12:11,12.18.1
+782,bekar,1,2026-09-17 04:29:09,12.18.1
+784,bekaar,1,2026-09-17 23:15:07,12.18.1
+786,it bugs all the time,1,2026-09-18 10:52:38,12.18.1
+788,why the hell no option of skip rating.if I don't want rate.,1,2026-09-19 18:19:40,12.18.1
+789,it ask too much permission when I open the app on regular basis,2,2026-09-20 02:29:53,12.18.1
+791,"there is an issue with the app. While opening the app, it shows the app is not installed from the play store whereas I never used other places to install.",2,2026-09-21 07:49:56,11.0.2
+802,as per mine experience ut should get zero review as they were not assigning cabs on time,1,2026-09-23 23:08:23,12.19.0
+811,the application is not working properly show app error please fix it,1,2026-09-28 13:36:05,12.19.0
+830,the update is worse. it wont let you track the location of the van under an hour,1,2026-10-07 15:47:58,12.19.0

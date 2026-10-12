@@ -1,0 +1,14 @@
+theme,manual_support,predicted_support,precision,recall,f1
+App launch / crash,6,6,0.8333333333333334,0.8333333333333334,0.8333333333333334
+Booking / schedule / roster,9,15,0.6,1.0,0.75
+ETA / tracking / location,11,12,0.9166666666666666,1.0,0.9565217391304348
+General app reliability / performance,12,12,0.8333333333333334,0.8333333333333334,0.8333333333333334
+Install verification / Play Store error,3,2,1.0,0.6666666666666666,0.8
+No specific detail / other,16,16,0.9375,0.9375,0.9375
+OTP / login / session,16,18,0.8333333333333334,0.9375,0.8823529411764706
+Policy / permission prompts,1,2,0.5,1.0,0.6666666666666666
+Rating prompts / notifications,4,5,0.8,1.0,0.8888888888888888
+Safety / security,4,2,1.0,0.5,0.6666666666666666
+Support / escalation,2,2,0.5,0.5,0.5
+Transport operations / driver / route,11,4,1.0,0.36363636363636365,0.5333333333333333
+UI / release / usability,5,4,0.75,0.6,0.6666666666666666

@@ -1,0 +1,14 @@
+theme,owner,reviews,share_of_low_reviews
+No specific detail / other,Needs manual review,179,0.21233689205219455
+OTP / login / session,App + authentication backend,123,0.14590747330960854
+Booking / schedule / roster,Product + backend,111,0.13167259786476868
+ETA / tracking / location,Product + routing infrastructure + operations,86,0.10201660735468565
+General app reliability / performance,App engineering,73,0.08659549228944247
+Transport operations / driver / route,Transport operations + vendor management,71,0.08422301304863583
+UI / release / usability,Product + design + app engineering,52,0.06168446026097272
+Support / escalation,Customer support + transport desk,43,0.051008303677342826
+App launch / crash,Android engineering,39,0.046263345195729534
+Rating prompts / notifications,Product + Android,32,0.03795966785290629
+Install verification / Play Store error,Android engineering,15,0.017793594306049824
+Policy / permission prompts,Product + Android,10,0.011862396204033215
+Safety / security,Transport operations + Safety,9,0.010676156583629894

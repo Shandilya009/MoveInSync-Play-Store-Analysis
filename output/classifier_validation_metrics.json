@@ -1,0 +1,14 @@
+{
+  "n_reviewed": 100,
+  "exact_primary_theme_agreement": 0.82,
+  "exact_matches": 82,
+  "wilson_95pct_interval": [
+    0.7333246397578691,
+    0.8829986834574896
+  ],
+  "macro_f1": 0.7627125822458303,
+  "weighted_f1": 0.808782750781472,
+  "method_note": "A fixed 100-review simple random sample was manually adjudicated without displaying the predicted label during label assignment. Single-pass, model-assisted adjudication; not independently double-coded. Treat results as a directional quality check rather than a certified benchmark.",
+  "snapshot_latest_review": "2026-10-11",
+  "low_rated_population_n": 843
+}

@@ -1,0 +1,13 @@
+theme,owner,reviews_with_mention,share_of_low_reviews,definition
+Transport operations / driver / route,Transport operations + vendor management,176,0.20877817319098457,"Late/missing transport, driver conduct, routing, pooling or vehicle allocation."
+Booking / schedule / roster,Product + backend,144,0.1708185053380783,"Booking/scheduling, roster, waitlist, cancellation, or no-show clarity."
+General app reliability / performance,App engineering,127,0.1506524317912218,"Broad speed, loading, bug, network or stability complaints not more specifically tagged."
+OTP / login / session,App + authentication backend,124,0.14709371293001186,"OTP delivery, authentication, unexpected logout or session issues."
+ETA / tracking / location,Product + routing infrastructure + operations,98,0.1162514827995255,"ETA accuracy, live tracking, GPS/location or pickup/drop timing."
+UI / release / usability,Product + design + app engineering,96,0.11387900355871886,"Navigation, usability, redesign, feature or release-related friction."
+Support / escalation,Customer support + transport desk,76,0.09015421115065243,"Helpdesk availability, complaint handling or lack of response/resolution."
+App launch / crash,Android engineering,51,0.060498220640569395,"Unable to open, launch, or use the app after crashes/freezes."
+Rating prompts / notifications,Product + Android,42,0.0498220640569395,"Mandatory rating/feedback prompts, excessive notifications or no-skip friction."
+Install verification / Play Store error,Android engineering,15,0.017793594306049824,"Install-source checks, false not-installed messages or installation failures."
+Policy / permission prompts,Product + Android,15,0.017793594306049824,"Repeated policy acceptance, terms or device-permission prompts."
+Safety / security,Transport operations + Safety,9,0.010676156583629894,"Safety, harassment, abuse or security concerns."

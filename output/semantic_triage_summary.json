@@ -1,0 +1,10 @@
+{
+  "snapshot_latest_review": "2026-10-11",
+  "pre_refinement_long_unmatched_review_count": 55,
+  "explicit_signals_captured_by_refined_rules": 8,
+  "remaining_vague_or_underspecified_long_comments": 47,
+  "remaining_short_unmatched_comments_three_words_or_fewer": 132,
+  "current_primary_unmatched_total": 179,
+  "current_primary_unmatched_share": 0.21233689205219455,
+  "method_note": "LLM-assisted semantic review of the 55 longer comments in the pre-refinement unmatched set. Eight explicit signals were translated into durable regex rules and regression tests. The remaining 47 were intentionally kept unmatched because they were generic or underspecified. This is a snapshot-specific adjudication aid, not an independently benchmarked production LLM classifier; the separate 100-review validation remains model-assisted and not independently double-coded."
+}

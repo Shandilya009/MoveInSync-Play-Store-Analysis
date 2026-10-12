@@ -1,0 +1,101 @@
+sample_row_id,content,score,at,appVersion,pred,mentions
+0,not working properly,1,2025-10-12 16:45:47,12.5,General app reliability / performance,General app reliability / performance
+15,"this app keeps asking to review again-2, updating my rating from 5 to 3 star because of this.",3,2025-10-19 13:11:14,12.6,Rating prompts / notifications,Rating prompts / notifications
+17,bekar,1,2025-10-21 02:21:07,12.6,No specific detail / other,
+19,policy aggreement was asking multiple times,3,2025-10-22 13:47:57,12.6,No specific detail / other,
+20,app don't show the real time update very frustrating drivers are not helpfull at all,1,2025-10-22 16:47:01,12.5,Transport operations / driver / route,Transport operations / driver / route
+22,UI is extremely bad,1,2025-10-22 21:30:34,12.6,UI / release / usability,UI / release / usability
+24,"useless App, I'm not receiving otp to login from past two days. Chetha App ra babu.",1,2025-10-22 23:52:42,12.6,OTP / login / session,OTP / login / session
+32,not user friendly,1,2025-10-25 11:26:40,,UI / release / usability,UI / release / usability
+46,Compelled almost manipilated survey. Not the best in recovering account or logging back in after unknown reasons for being logged out.,1,2025-10-28 23:35:02,12.6,OTP / login / session,OTP / login / session
+47,multiple times verify with otp challange from latest updates need to fix the problem,1,2025-10-29 02:32:25,12.6,OTP / login / session,OTP / login / session
+51,"Worst experience, its been three days and my address hasn't updated in the app to book cab for office. The most uncomfortable experience with this app.",1,2025-10-29 11:43:44,,Booking / schedule / roster,Booking / schedule / roster
+53,worst transport team just waste your time in case of real time cab and align only to those who are known to them.,1,2025-10-29 22:51:20,12.6,No specific detail / other,
+93,safety concerns,1,2025-11-18 16:05:42,,No specific detail / other,
+94,worst experience with app clitch,1,2025-11-19 00:23:00,12.6,No specific detail / other,
+98,I do cancel a cab trip from this app but it's reflected me on the same time the cab trip is cancelled but still not updated due to that cab is booked and consider no show the worst app.,2,2025-11-20 06:26:41,12.6,Booking / schedule / roster,Booking / schedule / roster
+105,you should have option to cancel anytime.,1,2025-11-24 08:56:40,12.6,No specific detail / other,
+106,"this is pathetic app . looks like no proper testing before release is carried out . To be frank college students write better sw than this company. 1. Everytime I logging in , it requests me to accept ""Transport policy"" WHY ? 2. Say I board the shuttle I'm supposed to scan the QR code , Guess what without turning on torch the app is unable to read the QR (even under well lit condition) .",1,2025-11-24 17:22:46,12.7,OTP / login / session,OTP / login / session; Policy / permission prompts; Transport operations / driver / route
+122,Many issues with this app. some booking not reflected and not reflecting correctly on the driver's end. Thus making me look like a liar. RESULT? I HAVE 2 DRIVER'S AS AN ENEMY COMPLAINING TO ME. I AM SHOWING THE PROOF I HAVE MADE CORRECT BOOKINGS AND THEY DID NOT EVEN BOTHERED TO LOOK AT IT. AND THEY HAVE DISMISSED IT AND ALSO THE DRIVER'S HAVE ANGER ISSUES. JUST BY SEEING ME. SHOWING AGGRESSIVE ATTITUDE. LIKE WHAT? I DO NOT EVEN KNOW YOU AND YOUR NAME. App is not helpful ✓,1,2025-12-03 00:06:23,12.7.2,Booking / schedule / roster,Booking / schedule / roster; Support / escalation; Transport operations / driver / route
+124,faltu service,1,2025-12-04 14:51:07,12.6,No specific detail / other,
+131,Again app not working at 8pm. worst experience,1,2025-12-07 20:17:00,12.7.2,General app reliability / performance,General app reliability / performance
+142,Pathetic app. My office is using their service and driver doesn't come on time for pickup. Most of the time driver doesn't pick the call. Their customer care is also not easy to connect.,1,2025-12-09 09:50:54,12.7.2,Support / escalation,Support / escalation; Transport operations / driver / route
+143,nice 👍,2,2025-12-09 23:28:54,12.7.2,No specific detail / other,
+151,"doesn't work at all, no OTP sent.",1,2025-12-13 00:21:48,12.6,OTP / login / session,OTP / login / session; General app reliability / performance
+152,"worst service, not good to corporate organisation",1,2025-12-15 10:53:43,12.8,No specific detail / other,
+160,Its very hard to track the driver location. Kindly upgrade your tracker features on the app,2,2025-12-20 17:24:57,12.8.2,ETA / tracking / location,ETA / tracking / location; Transport operations / driver / route
+175,"It seems like ""no show"" is a sin an employee is committing while using this app. I did a no show, the year has passed, but I still see that notification on my app's home page. Shame on you app makers. Have some shame.",1,2026-01-02 07:36:28,12.4,Booking / schedule / roster,Booking / schedule / roster; Rating prompts / notifications
+178,"The worst app ever , App should be like EFMFM app simple and Accessible , there should be an calling option too.",1,2026-01-04 04:14:08,12.8.3,No specific detail / other,
+180,worst app as the driver without informing marked as no show,1,2026-01-05 05:26:36,12.7.2,Booking / schedule / roster,Booking / schedule / roster; Transport operations / driver / route
+187,Worst,2,2026-01-06 07:58:21,,No specific detail / other,
+188,so much ridiculous app. After 3 no show cab facility nahi milti... shiiii Ganda app,1,2026-01-06 20:27:30,12.8.3,Booking / schedule / roster,Booking / schedule / roster
+189,too many confusion,1,2026-01-06 22:41:51,12.8.3,UI / release / usability,UI / release / usability
+205,worst app ever ...its lags a lot I've missed my cabs so many times,1,2026-01-11 20:23:05,11.5.19,No specific detail / other,
+227,worst,1,2026-01-23 04:25:19,,No specific detail / other,
+229,"Bad bad bad experience, the fact that you cannot book the transport on the same day",1,2026-01-23 13:58:22,12.8.3,Booking / schedule / roster,Booking / schedule / roster
+232,Can't see the plus button to schedule cabs.,3,2026-01-26 01:44:35,12.9.1,Booking / schedule / roster,Booking / schedule / roster
+234,no option for the user to provide a trip rating until it pops up,1,2026-01-27 11:55:27,12.9.2,Rating prompts / notifications,Rating prompts / notifications
+249,absurd experience with this app. unabl to get cab even after booking and there is prob with the assigned cb as it keeps on changing the cab number,1,2026-02-04 07:25:57,12.9.2,Booking / schedule / roster,Booking / schedule / roster
+261,very poor experience of pick up the timings change randomly every half n hour before pick up which confused employee .,1,2026-02-10 16:00:15,12.9.4,UI / release / usability,UI / release / usability
+273,"ux needs improvement... for example, what is sign out? sign out from morning ride or office signout?",1,2026-02-13 16:46:55,12.9.4,No specific detail / other,
+275,not receiving otp,1,2026-02-15 18:26:39,12.9.4,OTP / login / session,OTP / login / session
+276,Only good for initial one month don't show any details anymore,1,2026-02-15 23:04:56,12.9.4,No specific detail / other,
+282,always asking for feedback of the last ride,2,2026-02-18 01:21:37,12.9.4,Support / escalation,Support / escalation
+286,MobeInSync suddenly became unavailable and asking me to validate my identity. I can't receive text or email since my work laptop is in the office and I can't install Outlook in my phone.,1,2026-02-18 16:18:30,12.10,No specific detail / other,
+289,some of the drivers were like uttam shirkr who came half an hour earlier and marked no show at pick point no call us when leaving the pick up point experienced worst driver ever,1,2026-02-20 05:35:26,12.9.4,Booking / schedule / roster,Booking / schedule / roster; Transport operations / driver / route
+317,ok,3,2026-03-11 09:24:53,12.10.2,No specific detail / other,
+321,"no option to call the driver or helpdesk. i afraid, in case of any emergency this app is of no use. you are on your own.",1,2026-03-12 07:02:28,12.10.2,Support / escalation,Support / escalation; Transport operations / driver / route
+326,don't show exact time of ride 😔,2,2026-03-13 12:01:09,12.10.2,No specific detail / other,
+327,"feedback from the driver app, when i am entering otp, if otp is only of number type then keyboard must be updated to numeric keyboard, its simple to do for both android native and flutter application.",1,2026-03-13 22:13:35,12.10.2,OTP / login / session,OTP / login / session; Support / escalation; Transport operations / driver / route
+343,"I am not getting register option in this , how can I directly login?",1,2026-03-23 10:10:45,12.11.0,OTP / login / session,OTP / login / session
+346,"worst app, every time cabs are delayed not a single time cab has arrived on time. Due to their delay we need to work extra in the office.",2,2026-03-25 13:38:18,12.10.2,Transport operations / driver / route,Transport operations / driver / route
+349,Worst app. Continuously getting carbon saving notifications which is annoying,1,2026-03-28 05:21:45,12.11.0,Rating prompts / notifications,Rating prompts / notifications
+353,App does not allow me to rate one of my trips which was wrong routing today.,1,2026-03-31 03:29:21,11.5.21,Transport operations / driver / route,Transport operations / driver / route
+360,the app is giving sign in error and unable to sign in with work email.,1,2026-04-02 13:03:57,12.11.0,OTP / login / session,OTP / login / session
+361,one of the world worst application,1,2026-04-02 14:58:12,12.11.1,No specific detail / other,
+371,please Enable Darkmode,3,2026-04-08 10:21:37,12.11.1,No specific detail / other,
+381,"Although it's great, like the experience and the behaviour of the driver was top notch, but the company should be considering the voice of its driver as well. They should allot the driver to the farthest employees, whose drop location is in proximity to the driver's house. that way, it would be more easy and convenient for the driver as well to get to his family early rather than travelling back burning fuel for no reason, just because the company was too lazy to build such a system.",3,2026-04-14 22:21:19,12.11.2,ETA / tracking / location,ETA / tracking / location; Transport operations / driver / route
+398,Cannot get verified because otp isn't sent,1,2026-04-21 14:43:53,,OTP / login / session,OTP / login / session
+412,please remove your annoying popups. its very very difficult to close them and they keep on coming back. I am not able to schedule my ride. what kind of fully useless developer build such a pathetic app.. shame on them. don't you know what is your core user journey. why it has to be behind annoying popups.,1,2026-04-24 22:52:27,12.11.2,Booking / schedule / roster,Booking / schedule / roster
+423,worst allocation of cabs and no proper response,1,2026-05-01 06:16:46,12.12.0,Transport operations / driver / route,Transport operations / driver / route
+424,address change is very awful through app. how can someone browse on phone to map address search feature is also not there,1,2026-05-03 16:00:52,12.12.0,ETA / tracking / location,ETA / tracking / location; UI / release / usability
+448,cab timing is showing something else nd arriving at something else time worst app worst employee the drivers are soo soo soo rude they don't even wait 5 mints continuously calling,1,2026-05-14 04:24:26,12.12.2,Transport operations / driver / route,Transport operations / driver / route
+451,app not working,1,2026-05-16 01:54:09,,General app reliability / performance,General app reliability / performance
+467,The QR scanner in this app doesn't work.,1,2026-05-21 17:00:43,12.12.3,General app reliability / performance,General app reliability / performance
+477,not giving real time tracking,1,2026-05-27 10:33:17,12.12.3,ETA / tracking / location,ETA / tracking / location
+493,pickup time and actual arriving time of bus is totally different. lot of issues,1,2026-06-03 14:18:55,12.7.2,ETA / tracking / location,ETA / tracking / location
+496,worst transportion ever,1,2026-06-03 22:41:46,12.13.0,No specific detail / other,
+522,terrible application !,1,2026-06-13 17:06:13,12.13.1,No specific detail / other,
+527,useless support I lost my earbuds on cab they didn't even help to get it back,1,2026-06-15 19:15:09,12.13.2,Support / escalation,Support / escalation
+530,it is logouting sometimes and also it not getting login with phone number only with mail only it is logging,1,2026-06-16 19:56:09,,OTP / login / session,OTP / login / session
+579,Unreliable application. Sometimes their application is down and it creates chaos.,2,2026-06-29 17:10:19,12.14.1,General app reliability / performance,General app reliability / performance
+584,poor app maintenance and management.,1,2026-06-30 08:25:42,12.14.1,No specific detail / other,
+598,"worst app to use, not user friendly most of the things does not work",1,2026-07-02 06:43:59,,UI / release / usability,UI / release / usability; General app reliability / performance
+602,more number of taps required. navigation is not user-friendly,3,2026-07-05 18:05:39,12.14.1,UI / release / usability,UI / release / usability
+603,wrost,1,2026-07-06 11:51:00,12.14.1,No specific detail / other,
+605,app doesn't work. not even getting OTP,1,2026-07-07 07:34:46,12.14.1,OTP / login / session,OTP / login / session; General app reliability / performance
+618,before the upgrade the app was good as we could see the shuttles location which is now not available causing tremendous inconvenience,1,2026-07-10 10:50:25,12.14.1,ETA / tracking / location,ETA / tracking / location; Transport operations / driver / route
+625,Sometimes open the app and showing not installed,1,2026-07-14 17:17:08,12.15.0,Install verification / Play Store error,Install verification / Play Store error
+627,does not let you book a bus if location accuracy is off. why do you need location accuracy? are you going to bring the bus to my house? well it does not even let you scan QR code now without location accuracy. thanks guys. any more ways you can make your app more useless?,1,2026-07-15 07:43:48,12.14.1,ETA / tracking / location,ETA / tracking / location; Booking / schedule / roster
+629,"the new update looks confusing including the font color of ""logout"" is red like the font color of ""cancel"" Also the ""book"" tab became smaller",2,2026-07-15 21:40:28,,OTP / login / session,OTP / login / session; Booking / schedule / roster; UI / release / usability
+630,Not worth it - worst ever employee complaints are ignoring by transportation & Cab owners worst facilities.,2,2026-07-16 08:33:01,12.14.1,Support / escalation,Support / escalation
+644,"worst experience ..delay in application , booking difficult",1,2026-07-24 05:39:55,12.15.0,Booking / schedule / roster,Booking / schedule / roster; Transport operations / driver / route
+650,unable to sign in,1,2026-07-28 08:26:10,12.16.0,OTP / login / session,OTP / login / session
+652,Facing issues with installation.,1,2026-07-29 10:28:49,12.16.0,No specific detail / other,
+656,having frequent trouble in opening the app. throwing error that the app was not installed thru playstore. frustrating,1,2026-07-30 07:21:24,12.16.1,Install verification / Play Store error,Install verification / Play Store error
+678,after 48 hours it shows an error. you haven't installed it from playstore try and reinstall it.,3,2026-08-06 14:11:24,12.16.1,App launch / crash,App launch / crash
+707,worst we can't be able to cancel the ride within the defined period.,2,2026-08-14 15:05:26,12.17.0,Booking / schedule / roster,Booking / schedule / roster
+727,always keeps asking for rating,1,2026-08-21 23:56:28,12.17.0,Rating prompts / notifications,Rating prompts / notifications
+734,"location and its root is accurate many times, hangs for unknown reasons, no feedback option to feedback about the app, it has a lot of sleeping defects, if it's not improved the app will reach the end of life soon.",1,2026-08-26 21:09:00,12.17.0,App launch / crash,App launch / crash; ETA / tracking / location; Support / escalation
+736,routematic has better service than this.. they dont pickup calls and the vehicle allocated is just for name sake,1,2026-08-27 07:29:14,12.18.0,No specific detail / other,
+738,Poor UI. takes forever to load. Routing is the worst!,1,2026-08-27 08:33:11,12.17.0,UI / release / usability,UI / release / usability; Transport operations / driver / route
+748,OTP not received on mobile number and also not received on WhatsApp also,1,2026-09-02 19:42:58,12.17.0,OTP / login / session,OTP / login / session
+751,I couldn't able to access not even getting otp,1,2026-09-02 22:53:40,12.17.0,OTP / login / session,OTP / login / session
+773,Worst app. Very very slow. Show Address is navigating 4 times to the same screen.,2,2026-09-15 10:51:08,,General app reliability / performance,General app reliability / performance
+778,"useless app, need to uninstall very frequently and install ...i guess developer forgot make it compatible to android 17. just open the app and leave it it doesn't display anything. User don't have any control on app.. the for what sake the app is?? just do rostering ???",1,2026-09-16 08:48:39,12.18.1,No specific detail / other,
+787,Forcing users to compulsorily turn on notifications,1,2026-09-18 18:29:12,12.18.1,Rating prompts / notifications,Rating prompts / notifications
+793,bad,1,2026-09-21 17:07:07,12.18.1,No specific detail / other,
+796,worst app,1,2026-09-22 08:51:52,12.18.1,No specific detail / other,
+831,bhot bekar hai,1,2026-10-07 19:02:14,12.19.0,No specific detail / other,
+839,"MoveOutSync doesn't plan commutes; it plans cross-country pilgrimages. The ETA is an abstract joke where a 1-hour delay is considered punctual. The routing algorithm is pure genius: it clubs passengers from two different states into one cab at 8 AM, while empty cabs glide right past us. If you want a free Bharat Darshan tour before reaching office, this is it. Coding isn't for everyone-definitely not for the monkeys who built this. Try copying Routematic fools.",1,2026-10-09 08:22:55,12.19.0,ETA / tracking / location,ETA / tracking / location; Transport operations / driver / route
+841,worst app,1,2026-10-09 13:55:58,12.19.0,No specific detail / other,

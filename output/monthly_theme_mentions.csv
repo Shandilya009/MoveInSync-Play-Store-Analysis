@@ -1,0 +1,145 @@
+month,low_reviews,theme,reviews_with_mention,share_of_low_reviews
+2025-11,52,Safety / security,0,0.0
+2025-11,52,Install verification / Play Store error,1,0.019230769230769232
+2025-11,52,OTP / login / session,7,0.1346153846153846
+2025-11,52,App launch / crash,2,0.038461538461538464
+2025-11,52,ETA / tracking / location,6,0.11538461538461539
+2025-11,52,Booking / schedule / roster,11,0.21153846153846154
+2025-11,52,Rating prompts / notifications,0,0.0
+2025-11,52,Policy / permission prompts,2,0.038461538461538464
+2025-11,52,UI / release / usability,2,0.038461538461538464
+2025-11,52,Support / escalation,6,0.11538461538461539
+2025-11,52,General app reliability / performance,9,0.17307692307692307
+2025-11,52,Transport operations / driver / route,8,0.15384615384615385
+2025-12,58,Safety / security,0,0.0
+2025-12,58,Install verification / Play Store error,1,0.017241379310344827
+2025-12,58,OTP / login / session,6,0.10344827586206896
+2025-12,58,App launch / crash,3,0.05172413793103448
+2025-12,58,ETA / tracking / location,8,0.13793103448275862
+2025-12,58,Booking / schedule / roster,10,0.1724137931034483
+2025-12,58,Rating prompts / notifications,3,0.05172413793103448
+2025-12,58,Policy / permission prompts,0,0.0
+2025-12,58,UI / release / usability,3,0.05172413793103448
+2025-12,58,Support / escalation,7,0.1206896551724138
+2025-12,58,General app reliability / performance,9,0.15517241379310345
+2025-12,58,Transport operations / driver / route,13,0.22413793103448276
+2026-01,68,Safety / security,1,0.014705882352941176
+2026-01,68,Install verification / Play Store error,0,0.0
+2026-01,68,OTP / login / session,11,0.16176470588235295
+2026-01,68,App launch / crash,5,0.07352941176470588
+2026-01,68,ETA / tracking / location,5,0.07352941176470588
+2026-01,68,Booking / schedule / roster,20,0.29411764705882354
+2026-01,68,Rating prompts / notifications,4,0.058823529411764705
+2026-01,68,Policy / permission prompts,1,0.014705882352941176
+2026-01,68,UI / release / usability,9,0.1323529411764706
+2026-01,68,Support / escalation,2,0.029411764705882353
+2026-01,68,General app reliability / performance,9,0.1323529411764706
+2026-01,68,Transport operations / driver / route,9,0.1323529411764706
+2026-02,63,Safety / security,0,0.0
+2026-02,63,Install verification / Play Store error,0,0.0
+2026-02,63,OTP / login / session,12,0.19047619047619047
+2026-02,63,App launch / crash,2,0.031746031746031744
+2026-02,63,ETA / tracking / location,4,0.06349206349206349
+2026-02,63,Booking / schedule / roster,10,0.15873015873015872
+2026-02,63,Rating prompts / notifications,2,0.031746031746031744
+2026-02,63,Policy / permission prompts,1,0.015873015873015872
+2026-02,63,UI / release / usability,7,0.1111111111111111
+2026-02,63,Support / escalation,6,0.09523809523809523
+2026-02,63,General app reliability / performance,4,0.06349206349206349
+2026-02,63,Transport operations / driver / route,16,0.25396825396825395
+2026-03,52,Safety / security,0,0.0
+2026-03,52,Install verification / Play Store error,0,0.0
+2026-03,52,OTP / login / session,7,0.1346153846153846
+2026-03,52,App launch / crash,0,0.0
+2026-03,52,ETA / tracking / location,6,0.11538461538461539
+2026-03,52,Booking / schedule / roster,7,0.1346153846153846
+2026-03,52,Rating prompts / notifications,6,0.11538461538461539
+2026-03,52,Policy / permission prompts,2,0.038461538461538464
+2026-03,52,UI / release / usability,5,0.09615384615384616
+2026-03,52,Support / escalation,7,0.1346153846153846
+2026-03,52,General app reliability / performance,8,0.15384615384615385
+2026-03,52,Transport operations / driver / route,15,0.28846153846153844
+2026-04,67,Safety / security,0,0.0
+2026-04,67,Install verification / Play Store error,0,0.0
+2026-04,67,OTP / login / session,8,0.11940298507462686
+2026-04,67,App launch / crash,3,0.04477611940298507
+2026-04,67,ETA / tracking / location,5,0.07462686567164178
+2026-04,67,Booking / schedule / roster,11,0.16417910447761194
+2026-04,67,Rating prompts / notifications,2,0.029850746268656716
+2026-04,67,Policy / permission prompts,1,0.014925373134328358
+2026-04,67,UI / release / usability,11,0.16417910447761194
+2026-04,67,Support / escalation,4,0.05970149253731343
+2026-04,67,General app reliability / performance,8,0.11940298507462686
+2026-04,67,Transport operations / driver / route,14,0.208955223880597
+2026-05,62,Safety / security,2,0.03225806451612903
+2026-05,62,Install verification / Play Store error,0,0.0
+2026-05,62,OTP / login / session,12,0.1935483870967742
+2026-05,62,App launch / crash,1,0.016129032258064516
+2026-05,62,ETA / tracking / location,8,0.12903225806451613
+2026-05,62,Booking / schedule / roster,11,0.1774193548387097
+2026-05,62,Rating prompts / notifications,3,0.04838709677419355
+2026-05,62,Policy / permission prompts,0,0.0
+2026-05,62,UI / release / usability,9,0.14516129032258066
+2026-05,62,Support / escalation,9,0.14516129032258066
+2026-05,62,General app reliability / performance,16,0.25806451612903225
+2026-05,62,Transport operations / driver / route,12,0.1935483870967742
+2026-06,102,Safety / security,1,0.00980392156862745
+2026-06,102,Install verification / Play Store error,1,0.00980392156862745
+2026-06,102,OTP / login / session,13,0.12745098039215685
+2026-06,102,App launch / crash,4,0.0392156862745098
+2026-06,102,ETA / tracking / location,19,0.18627450980392157
+2026-06,102,Booking / schedule / roster,15,0.14705882352941177
+2026-06,102,Rating prompts / notifications,5,0.049019607843137254
+2026-06,102,Policy / permission prompts,2,0.0196078431372549
+2026-06,102,UI / release / usability,10,0.09803921568627451
+2026-06,102,Support / escalation,9,0.08823529411764706
+2026-06,102,General app reliability / performance,17,0.16666666666666666
+2026-06,102,Transport operations / driver / route,23,0.22549019607843138
+2026-07,72,Safety / security,0,0.0
+2026-07,72,Install verification / Play Store error,4,0.05555555555555555
+2026-07,72,OTP / login / session,6,0.08333333333333333
+2026-07,72,App launch / crash,5,0.06944444444444445
+2026-07,72,ETA / tracking / location,9,0.125
+2026-07,72,Booking / schedule / roster,15,0.20833333333333334
+2026-07,72,Rating prompts / notifications,3,0.041666666666666664
+2026-07,72,Policy / permission prompts,0,0.0
+2026-07,72,UI / release / usability,12,0.16666666666666666
+2026-07,72,Support / escalation,8,0.1111111111111111
+2026-07,72,General app reliability / performance,11,0.1527777777777778
+2026-07,72,Transport operations / driver / route,12,0.16666666666666666
+2026-08,86,Safety / security,1,0.011627906976744186
+2026-08,86,Install verification / Play Store error,5,0.05813953488372093
+2026-08,86,OTP / login / session,5,0.05813953488372093
+2026-08,86,App launch / crash,14,0.16279069767441862
+2026-08,86,ETA / tracking / location,12,0.13953488372093023
+2026-08,86,Booking / schedule / roster,14,0.16279069767441862
+2026-08,86,Rating prompts / notifications,2,0.023255813953488372
+2026-08,86,Policy / permission prompts,2,0.023255813953488372
+2026-08,86,UI / release / usability,10,0.11627906976744186
+2026-08,86,Support / escalation,7,0.08139534883720931
+2026-08,86,General app reliability / performance,11,0.12790697674418605
+2026-08,86,Transport operations / driver / route,21,0.2441860465116279
+2026-09,72,Safety / security,1,0.013888888888888888
+2026-09,72,Install verification / Play Store error,3,0.041666666666666664
+2026-09,72,OTP / login / session,10,0.1388888888888889
+2026-09,72,App launch / crash,8,0.1111111111111111
+2026-09,72,ETA / tracking / location,7,0.09722222222222222
+2026-09,72,Booking / schedule / roster,7,0.09722222222222222
+2026-09,72,Rating prompts / notifications,5,0.06944444444444445
+2026-09,72,Policy / permission prompts,1,0.013888888888888888
+2026-09,72,UI / release / usability,1,0.013888888888888888
+2026-09,72,Support / escalation,8,0.1111111111111111
+2026-09,72,General app reliability / performance,13,0.18055555555555555
+2026-09,72,Transport operations / driver / route,13,0.18055555555555555
+2026-10,26,Safety / security,1,0.038461538461538464
+2026-10,26,Install verification / Play Store error,0,0.0
+2026-10,26,OTP / login / session,4,0.15384615384615385
+2026-10,26,App launch / crash,3,0.11538461538461539
+2026-10,26,ETA / tracking / location,3,0.11538461538461539
+2026-10,26,Booking / schedule / roster,7,0.2692307692307692
+2026-10,26,Rating prompts / notifications,3,0.11538461538461539
+2026-10,26,Policy / permission prompts,1,0.038461538461538464
+2026-10,26,UI / release / usability,6,0.23076923076923078
+2026-10,26,Support / escalation,2,0.07692307692307693
+2026-10,26,General app reliability / performance,3,0.11538461538461539
+2026-10,26,Transport operations / driver / route,4,0.15384615384615385
