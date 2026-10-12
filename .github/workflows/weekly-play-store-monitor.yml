@@ -1,0 +1,90 @@
+name: Weekly MoveInSync Play Store review pulse
+
+on:
+  schedule:
+    # Monday 08:00 Asia/Kolkata (02:30 UTC)
+    - cron: '30 2 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-play-store-monitor
+  cancel-in-progress: false
+
+jobs:
+  review-pulse:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Run regression tests
+        run: python -m unittest -v
+
+      - name: Restore aggregate history
+        run: |
+          mkdir -p output monitor_history
+          if [ -f monitor_history/history.csv ]; then
+            cp monitor_history/history.csv output/history.csv
+          fi
+
+      - name: Fetch and analyse recent public reviews
+        run: python moveinsync_ratings_monitor.py --recent-days 400 --output-dir output
+
+      - name: Commit aggregate history and current report outputs
+        run: |
+          cp output/history.csv monitor_history/history.csv
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add monitor_history/history.csv \
+            output/weekly_report_*.txt \
+            output/monitor_alerts.csv \
+            output/rating_windows.csv \
+            output/monthly_trend.csv \
+            output/developer_response_trend.csv \
+            output/theme_summary.csv \
+            output/theme_mentions.csv \
+            output/theme_impact_scenarios.csv \
+            output/monthly_theme_primary.csv \
+            output/monthly_theme_mentions.csv \
+            output/version_summary.csv \
+            output/journey_stage_summary.csv \
+            output/data_quality.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update weekly public review monitoring outputs"
+            git push
+          fi
+
+      - name: Upload weekly summary and aggregate tables
+        uses: actions/upload-artifact@v4
+        with:
+          name: moveinsync-weekly-review-pulse-${{ github.run_number }}
+          if-no-files-found: error
+          retention-days: 90
+          path: |
+            output/weekly_report_*.txt
+            output/monitor_alerts.csv
+            output/rating_windows.csv
+            output/monthly_trend.csv
+            output/developer_response_trend.csv
+            output/theme_summary.csv
+            output/theme_mentions.csv
+            output/theme_impact_scenarios.csv
+            output/monthly_theme_primary.csv
+            output/monthly_theme_mentions.csv
+            output/version_summary.csv
+            output/journey_stage_summary.csv
+            output/data_quality.json
